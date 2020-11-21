@@ -1,6 +1,29 @@
+element {
+  background-color: gray;
+}
+
 #image {
     height:64px;
     width: 64px;
     background: url('https://i.ibb.co/NZBGYH4/ba-spritesheet.png') 0px 0px;
   }
+  
+  #image2 {
+    height:64px;
+    width: 64px;
+    background: url('https://i.ibb.co/NZBGYH4/ba-spritesheet.png') 0px 0px;
+  }
+
+  #image3 {
+    height:64px;
+    width: 64px;
+    background: url('https://i.ibb.co/NZBGYH4/ba-spritesheet.png') 0px 0px;
+  }
+
+  #image4 {
+    height:64px;
+    width: 64px;
+    background: url('https://i.ibb.co/NZBGYH4/ba-spritesheet.png') 0px 0px;
+  }
+  
   
