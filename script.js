@@ -1,6 +1,7 @@
 var tID; //we will use this variable to clear the setInterval()
 
 function stopAnimate() {
+    console.log("animation started")
   clearInterval(tID);
 } //end of stopAnimate()
 
