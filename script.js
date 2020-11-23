@@ -19,7 +19,7 @@ function animateScript() {
     //we use the ES6 template literal to insert the variable "position"
     
     if (position < 576) {
-      position = position + diff;
+      position += diff;
     }
     //we increment the position by 256 each time
     else {
